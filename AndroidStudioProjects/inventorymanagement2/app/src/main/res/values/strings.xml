@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">דרך צלחה</string>
+    <string name="action_settings"></string>
+    <string name="hide_show_add_products">Hide/Show ADD PRODUCTS</string>
+    <string name="add_products">Add Products</string>
+    <string name="show_hide_new_layout">Show/Hide New Layout</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="sound">SOUND</string>
+</resources>
